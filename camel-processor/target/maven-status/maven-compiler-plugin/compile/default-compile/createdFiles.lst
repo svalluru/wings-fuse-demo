@@ -1,0 +1,4 @@
+com/redhat/examples/CamelConfiguration.class
+com/redhat/examples/xml/RawOrder.class
+com/redhat/examples/Application.class
+com/redhat/examples/json/ProcessedOrder.class
